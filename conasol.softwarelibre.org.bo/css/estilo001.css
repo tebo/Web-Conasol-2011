@@ -7,13 +7,19 @@ body {
 img {border: none;}
 h1 {
 	/*font: 3em normal Georgia, "Times New Roman", Times, serif;*/
-font-family: 'Prociono', serif;
+	font-family: 'Prociono', serif;
 	color: #fff;
 	text-align: center;
 	background: url(h1_bg.gif) no-repeat;
 	text-indent: -0px;
 	margin: 10px 0 10px;
 	font-size: 36px;
+}
+h2 {
+	font-family: 'Prociono', serif;
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
 }
 .container {
 	overflow: hidden;
